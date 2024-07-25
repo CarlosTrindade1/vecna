@@ -1,4 +1,4 @@
-# Reconhecimento de Dígitos Manuscritos com Redes Neurais
+# Reconhecimento de Dígitos Manuscritos
 
 Este projeto implementa uma rede neural para o reconhecimento de dígitos manuscritos, seguindo as instruções do e-book *Neural Networks and Deep Learning*. O objetivo principal deste projeto é educativo, visando aprofundar o conhecimento em aprendizado de máquina e redes neurais.
 
